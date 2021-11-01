@@ -10,3 +10,17 @@ Se recomienda crear una organizacion que sea propietaria del repositorio origina
 ## fork
 
 El usuario tendra que loggearse con su cuenta de github e ingresar alanding page del proeycto original y de ahi hace un fork a su repositorio personal
+
+## Como trabajar en las ramas
+
+Listas remotos
+
+`git remote -v`
+
+Agregar remotos
+
+`git remote add GitOriginal htpps//`
+
+Eliminar remotos
+
+`git remote remove GitOriginal`
