@@ -24,3 +24,11 @@ Agregar remotos
 Eliminar remotos
 
 `git remote remove GitOriginal`
+
+## etiquetas !!
+
+Entendiendo 
+
+`git stash`
+
+https://ed.team/blog/como-se-deciden-las-versiones-del-software
